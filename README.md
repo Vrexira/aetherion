@@ -5,7 +5,7 @@
 
 **Aetherion** is a post-quantum cryptographic (PQC) encryption scheme designed to withstand attacks from quantum computers. It leverages lattice-based cryptography, specifically utilizing ring polynomial structures to provide a high level of security while maintaining efficiency in terms of both speed and computational resources. Aetherion ensures robustness against both classical and quantum adversaries.
 
-Aetherion’s parameter set for **NGES-128** is based on the structure of the **Kyber (KEM)** encapsulation scheme, providing an optimized foundation for security. The design of Aetherion is also inspired by **Kyber** and **Dilithium (DSA)**, drawing from concepts outlined in **FIPS 203** and **FIPS 204**, which form the basis for its advanced optimizations.
+Aetherion’s parameter set for **NGES-128** is based on the structure of, and the design of Aetherion is also inspired by, **Kyber (KEM)** and **Dilithium (DSA)**, drawing from concepts outlined in **FIPS 203** and **FIPS 204**, which form the basis for its advanced optimizations.
 
 ## Features
 
